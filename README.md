@@ -1,9 +1,7 @@
 # License-MIT
 NFT Marketplace
-
 ```markdown
 # NFT Marketplace
-
 Open-source NFT marketplace smart contracts.
 
 ## Contracts
