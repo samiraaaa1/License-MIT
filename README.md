@@ -8,6 +8,5 @@ Open-source NFT marketplace smart contracts.
 - `Marketplace.sol` - Buy/sell listings
 - `Auction.sol` - English auction
 ## Testing
-
 ```bash
 npx hardhat test
