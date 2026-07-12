@@ -9,4 +9,3 @@ Open-source NFT marketplace smart contracts.
 - `Auction.sol` - English auction
 ## Testing
 ```bash
-npx hardhat test
